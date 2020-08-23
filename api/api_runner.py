@@ -5,6 +5,8 @@
 #Email:petersat@163.com
 #Time: 2020/8/23 11:22
 
+#运行主文件类
+
 import unittest
 from HTMLTestRunner import HTMLTestRunner
 import os
