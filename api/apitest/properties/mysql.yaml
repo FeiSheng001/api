@@ -1,0 +1,5 @@
+server: localhost
+username: root
+password: admin
+port: 3306
+database: test
